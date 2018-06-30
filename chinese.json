@@ -56,7 +56,7 @@
     "hud_assault_endless" : "警方无尽突袭进行中",
     "hud_assault_survived_endless" : "波数存活(无尽突击)"
 	
-	"hud_control" : "控制阶段",
+    "hud_control" : "控制阶段",
     "hud_anticipation" : "试探阶段",
     "hud_build" : "构建阶段",
     "hud_sustain" : "持续阶段",
