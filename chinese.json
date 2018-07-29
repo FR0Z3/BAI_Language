@@ -1,6 +1,14 @@
 {
     "bai_mod_title" : "更好的突击横幅(设定)",
     "bai_mod_desc" : "在这里更改BAI的设定",
+	
+"bai_compatibility" : "HUD 兼容选项",
+    "bai_compatibility_desc" : "可根据你所使用的 HUD 选择所需要的兼容选项.\n若选错可能会导致游戏崩溃.\n默认自动识别当前使用的HUD",
+    "bai_compatibility_1" : "自动识别",
+    "bai_compatibility_2" : "原版(不使用兼容选项)",
+    "bai_compatibility_3" : "Void UI",
+    "bai_compatibility_4" : "Nepgearsy HUD '重生'版",
+
 
     "bai_show_wave_survived" : "在突击横幅中显示'波数存活'",
     "bai_show_wave_survived_desc" : "当你和你的队友在安全屋突袭中从一波突击中存活下来将会显示.",
